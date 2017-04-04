@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Madlibs</title>
-	<link rel="stylesheet" type="text/css" href="css/layout.css">
+	<link rel="stylesheet" type="text/css" href="css/paniek.css">
 </head>
 	<body>
 		<header>MadLibs</header>
@@ -24,5 +24,6 @@
 				<input type="submit">	
 			</form>
 		</main>
+	<footer>Deze website is gemaakt door L.P. Schroots.</footer>
 	</body>
 </html>

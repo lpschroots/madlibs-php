@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Madlibs</title>
-	<link rel="stylesheet" type="text/css" href="css/layout.css">
+	<link rel="stylesheet" type="text/css" href="css/paniek2.css">
 </head>
 	<body>
 		<header>MadLibs</header>
@@ -12,7 +12,7 @@
 				  <li><a href="onkunde.php">Onkunde</a></li>
 				</ul></nav>
 		<main>
-
+			<h1>Er heerst paniek...</h1>
 			<p>Er heerst paniek in het koningkrijk <?php echo $_POST["land"]?>. Koning <?php echo $_POST["persoon"]?> is ten einde raad en als koning <?php echo $_POST["docent"]?> ten einde raad is, dan roept hij zijn ten-einde-raadsheer <?php echo $_POST["docent"]?>.</p>
 			<p>"<?php echo $_POST["docent"]?>! Het  is een ramp! Het is een schande!"</p>
 			<p>"Sire, Majesteit, Uwe Luidruchtigheid, wat is er aan de hand?"</p>
@@ -22,7 +22,7 @@
 			<p>"Maar Sire, daar kunt u toch uw <? echo $_POST["geld"]?> voor gebruiken."</p>
 			<p>"<?php echo $_POST["docent"]?>, je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had."</p>
 			<p>"<?php echo $_POST["verveling"]?>, Sire"</p>
-
 		</main>
+	<footer>Deze website is gemaakt door L.P. Schroots</footer>
 	</body>
 </html>
