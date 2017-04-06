@@ -19,7 +19,7 @@
 			<p>"Mijn <?php echo $_POST["huisdier"]?> is verdwenen! Zo maar, zonder waarschuwing. En ik had Lego voor hem gekocht!"</p>
 			<p>"Majesteit, uw <?php echo $_POST["huisdier"]?> komt vast vanzelf weer terug?"</p>
 			<p>"Ja, da's leuk en aardig, maar hoe moet ik in de tussentijd <?php echo $_POST["bezigheid"]?> leren?"</p>
-			<p>"Maar Sire, daar kunt u toch uw <? echo $_POST["geld"]?> voor gebruiken."</p>
+			<p>"Maar Sire, daar kunt u toch uw <?php echo $_POST["geld"]?> voor gebruiken."</p>
 			<p>"<?php echo $_POST["docent"]?>, je hebt helemaal gelijk! Wat zou ik doen als ik jou niet had."</p>
 			<p>"<?php echo $_POST["verveling"]?>, Sire"</p>
 		</main>
