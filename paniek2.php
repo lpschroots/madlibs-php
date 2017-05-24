@@ -13,7 +13,7 @@
 				</ul></nav>
 		<main>
 			<h1>Er heerst paniek...</h1>
-			<p>Er heerst paniek in het koningkrijk <?php echo $_POST["land"]?>. Koning <?php echo $_POST["persoon"]?> is ten einde raad en als koning <?php echo $_POST["docent"]?> ten einde raad is, dan roept hij zijn ten-einde-raadsheer <?php echo $_POST["docent"]?>.</p>
+			<p>Er heerst paniek in het koningkrijk <?php echo $_POST["land"]?>. Koning <?php echo $_POST["persoon"]?> is ten einde raad en als koning <?php echo $_POST["persoon"]?> ten einde raad is, dan roept hij zijn ten-einde-raadsheer <?php echo $_POST["docent"]?>.</p>
 			<p>"<?php echo $_POST["docent"]?>! Het  is een ramp! Het is een schande!"</p>
 			<p>"Sire, Majesteit, Uwe Luidruchtigheid, wat is er aan de hand?"</p>
 			<p>"Mijn <?php echo $_POST["huisdier"]?> is verdwenen! Zo maar, zonder waarschuwing. En ik had Lego voor hem gekocht!"</p>
